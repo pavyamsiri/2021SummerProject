@@ -1,0 +1,6 @@
+__pycache__
+.ipynb_checkpoints
+*.zip
+.pylintrc
+cache
+*.code-workspace

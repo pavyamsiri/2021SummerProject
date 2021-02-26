@@ -1,0 +1,284 @@
+Star,RA,DEC,SpT,V,H,K,Diam,Err,Reference,Instrument
+HD 166,00 06 36.743, +29 01 17.56,K0V,6.065,4.629,4.314,0.624,0.009,"Boyajian et al. 2013, ApJ, 771, 40",CLASSIC
+HD 1367,00 17 47.700, +01 41 19.37,K0II,6.177,4.326,4.225,0.754,0.014,"Ligi et al. 2016, A&A, 586, A94",VEGA
+GJ 15 A,00 18 22.887, +44 01 22.65,M1.0V,8.125,4.475,4.018,1.005,0.005,"Boyajian et al. 2012, ApJ, 757, 112",CLASSIC
+HD 1671,00 21 07.262, +37 58 07.01,F5III,5.153,4.218,4.069,0.6,0.006,"Ligi et al. 2016, A&A, 586, A94",VEGA
+HD 3360,00 36 58.273, +53 53 48.69,B2IV,3.671,4.248,4.247,0.311,0.01,"Maestro et al. 2013, MNRAS, 434, 1321",PAVO
+HD 3651,00 39 21.872, +21 15 02.41,K0V,5.875,4.064,3.999,0.722,0.007,"Ligi et al. 2016, A&A, 586, A94",VEGA
+GJ 33,00 48 23.038, +05 16 49.75,K2V,5.738,3.722,3.683,0.868,0.004,"Boyajian et al. 2012, ApJ, 757, 112",CLASSIC
+HD 4614,00 49 06.223, +57 48 54.57,F9V+M0V,3.44,2.086,1.988,1.623,0.004,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 5015,00 53 04.193, +61 07 26.28,F8V,4.789,3.681,3.638,0.865,0.01,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 5448,00 56 45.220, +38 29 57.81,A5V,3.857,3.652,3.636,0.708,0.013,"Maestro et al. 2013, MNRAS, 434, 1321",PAVO
+HD 6210,01 04 19.452, +61 34 48.76,F6V,5.835,4.794,4.445,0.52,0.006,"Boyajian et al. 2013, ApJ, 771, 40",CLASSIC
+HD 6582,01 08 16.395, +54 55 13.23,G5V,5.157,3.597,3.505,0.972,0.009,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 9826,01 36 47.846, +41 24 20.10,F8V,4.093,2.957,2.859,1.161,0.027,"Ligi et al. 2016, A&A, 586, A94",VEGA
+HD 10476,01 42 29.778, +20 16 07.36,K1V,5.235,3.391,3.285,1,0.004,"Boyajian et al. 2013, ApJ, 771, 40",CLASSIC
+HD 10697,01 44 55.827, +20 04 59.28,G5IV,6.277,4.678,4.601,0.547,0.013,"Boyajian et al. 2013, ApJ, 771, 40",CLASSIC
+HD 10780,01 47 44.883, +63 51 09.07,K0V,5.616,4.133,4.014,0.763,0.019,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 11964,01 57 09.650,-10 14 32.38,G8IV,6.414,4.637,4.491,0.607,0.015,"Boyajian et al. 2013, ApJ, 771, 40",CLASSIC
+GJ 105,02 36 04.982, +06 53 14.00,K0V,5.815,3.657,3.481,1.03,0.007,"Boyajian et al. 2012, ApJ, 757, 112",CLASSIC
+HD 16765,02 41 13.981,-00 41 44.29,F7IV,5.751,4.642,4.506,0.497,0.007,"Boyajian et al. 2013, ApJ, 771, 40",CLASSIC
+HD 16895,02 44 11.973, +49 13 42.37,F7V,4.099,2.863,2.697,1.103,0.009,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 19373,03 09 03.870, +49 36 47.94,G0V,4.045,2.875,2.723,1.246,0.008,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 19994,03 12 46.442,-01 11 45.84,F8V,5.065,3.768,3.748,0.761,0.011,"Ligi et al. 2016, A&A, 586, A94",VEGA
+HD 20630,03 19 21.694, +03 22 12.60,G5Vvar,4.842,3.039,2.957,0.936,0.025,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 21019,03 23 17.697,-07 47 38.57,G2V,6.215,4.579,4.417,0.606,0.015,"Boyajian et al. 2013, ApJ, 771, 40",CLASSIC
+HD 22484,03 36 52.381, +00 24 05.43,F9V,4.29,2.916,2.835,1.081,0.014,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 24398,03 54 07.932, +31 53 01.19,B1Ib,2.872,2.621,2.603,0.542,0.007,"Challouf et al. 2014, A&A, 570, A104",VEGA
+GJ 166A,04 15 16.320,-07 39 10.34,K1V,4.419,2.594,2.498,1.504,0.006,"Boyajian et al. 2012, ApJ, 757, 112",CLASSIC
+HD 30652,04 49 50.403, +06 57 40.93,F6V,3.183,1.757,1.6,1.526,0.004,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 32630,05 06 30.910, +41 14 04.27,B3V,3.161,3.761,3.857,0.453,0.012,"Maestro et al. 2013, MNRAS, 434, 1321",PAVO
+HD 34411,05 19 08.481, +40 05 56.59,G0V,4.684,3.154,3.038,0.981,0.015,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 35468,05 25 07.863, +06 20 58.95,B2III,1.643,2.357,2.375,0.715,0.005,"Challouf et al. 2014, A&A, 570, A104",VEGA
+GJ 205,05 31 27.396,-03 40 38.02,M1.5V,7.968,4.05,3.9,0.943,0.004,"Boyajian et al. 2012, ApJ, 757, 112",CLASSIC
+HD 38858,05 48 34.950,-04 05 40.42,G4V,6.193,4.595,4.405,0.572,0.009,"Boyajian et al. 2013, ApJ, 771, 40",CLASSIC
+HD 39587,05 54 23.002, +20 16 34.45,G0V,4.394,3.19,2.996,1.051,0.009,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 48737,06 45 17.373, +12 53 43.90,F5IV,3.336,1.811,1.688,1.401,0.009,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 56537,07 18 05.606, +16 32 25.53,A3V,3.572,3.495,3.535,0.835,0.013,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 58946,07 29 06.712, +31 47 04.36,F0V,4.169,3.156,2.978,0.853,0.014,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 69897,08 20 03.860, +27 13 03.81,F6V,5.124,3.942,3.868,0.706,0.013,"Boyajian et al. 2013, ApJ, 771, 40",CLASSIC
+HD 75732,08 52 35.794, +28 19 50.96,G8V,5.942,4.265,4.015,0.724,0.012,"Ligi et al. 2016, A&A, 586, A94",VEGA
+GJ 338A,09 14 22.982, +52 41 12.53,M0V,7.631,3.987,3.988,0.871,0.015,"Boyajian et al. 2012, ApJ, 757, 112",CLASSIC
+GJ 338B,09 14 24.856, +52 41 11.84,M0V,7.701,4.043,4.136,0.856,0.016,"Boyajian et al. 2012, ApJ, 757, 112",CLASSIC
+HD 81937,09 31 31.704, +63 03 42.75,F0IV,3.644,3.025,2.864,1.133,0.009,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 82328,09 32 51.518, +51 40 38.47,F6IV,3.171,2.079,1.97,1.632,0.005,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 82885,09 35 39.592, +35 48 36.65,G8IV-V,5.388,3.718,3.69,0.821,0.013,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 86728,10 01 00.726, +31 55 26.22,G1V,5.376,4.04,3.821,0.771,0.012,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+GJ 380,10 11 22.186, +49 27 15.31,K8V,6.598,3.298,2.962,1.225,0.009,"Boyajian et al. 2012, ApJ, 757, 112",CLASSIC
+HD 89449,10 19 44.197, +19 28 15.78,F6IV,4.777,3.944,4.02,0.731,0.03,"Maestro et al. 2013, MNRAS, 434, 1321",PAVO
+HD 90839,10 30 37.596, +55 58 50.15,F8V,4.818,3.758,3.644,0.794,0.014,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 95418,11 01 50.467, +56 22 56.63,A1V,2.341,2.359,2.285,1.149,0.014,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 95608,11 02 19.805, +20 10 47.29,A1V,4.401,4.324,4.315,0.43,0.017,"Maestro et al. 2013, MNRAS, 434, 1321",PAVO
+GJ 411,11 03 20.238, +35 58 11.76,M2V,7.52,3.64,3.254,1.432,0.013,"Boyajian et al. 2012, ApJ, 757, 112",CLASSIC
+GJ 412A,11 05 28.578, +43 31 36.39,M1.0V,8.78,5.002,4.769,0.764,0.017,"Boyajian et al. 2012, ApJ, 757, 112",CLASSIC
+HD 97603,11 14 06.510, +20 31 25.82,A4V,2.549,2.191,2.144,1.328,0.009,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 97633,11 14 14.425, +15 25 46.66,A2V,3.316,3.19,3.082,0.74,0.024,"Maestro et al. 2013, MNRAS, 434, 1321",PAVO
+HD 101501,11 41 03.012, +34 12 06.46,G8Vvar,5.302,3.648,3.588,0.91,0.009,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 102870,11 50 41.731, +01 45 52.89,F8V,3.589,2.363,2.269,1.431,0.006,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 103095,11 52 58.806, +37 43 06.00,G5,6.426,4.5,4.373,0.696,0.005,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 109358,12 33 44.543, +41 21 27.01,G0V,4.243,2.905,2.848,1.238,0.03,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 114710,13 11 52.387, +27 52 41.19,G0V,4.241,2.992,2.923,1.127,0.011,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 118098,13 34 41.745,-00 35 45.38,A3V,3.368,3.154,3.223,0.852,0.009,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+GJ 526,13 45 43.777, +14 53 29.46,M3V,8.487,4.78,4.415,0.835,0.014,"Boyajian et al. 2012, ApJ, 757, 112",CLASSIC
+HD 126660,14 25 11.816, +51 51 02.99,F7V,4.04,2.98,2.739,1.109,0.007,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 128167,14 34 40.810, +29 44 42.29,F3Vwvar,4.467,3.462,3.336,0.841,0.013,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 130948,14 50 15.814, +23 54 42.47,G2V,5.868,4.688,4.458,0.569,0.011,"Boyajian et al. 2013, ApJ, 771, 40",CLASSIC
+HD 131156,14 51 23.380, +19 06 01.70,G8V+K4V,4.663,2.25,1.97,1.196,0.014,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 136202,15 19 18.812, +01 45 55.39,F8III-IV,5.048,3.947,4.008,0.785,0.024,"Boyajian et al. 2013, ApJ, 771, 40",CLASSIC
+HD 140538,15 44 01.827, +02 30 54.86,G5V,5.866,4.045,4.297,0.597,0.015,"Boyajian et al. 2013, ApJ, 771, 40",CLASSIC
+HD 141795,15 50 48.959, +04 28 39.94,Am,3.703,3.44,3.425,0.768,0.017,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 142860,15 56 27.202, +15 39 41.31,F6V,3.828,2.875,2.703,1.217,0.005,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 146233,16 15 37.267,-08 22 09.63,G1V,5.486,4.162,4.186,0.78,0.017,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+GJ 631,16 36 21.430,-02 19 28.20,K2V,5.762,4.053,4.039,0.724,0.011,"Boyajian et al. 2012, ApJ, 757, 112",CLASSIC
+HD 154633,17 02 15.724, +64 36 02.52,G5V,6.091,3.848,3.893,0.804,0.012,"Ligi et al. 2016, A&A, 586, A94",VEGA
+HD 157214,17 20 39.295, +32 28 21.15,G0V,5.381,3.9,3.91,0.725,0.012,"Boyajian et al. 2013, ApJ, 771, 40",CLASSIC
+HD 158633,17 25 00.194, +67 18 24.65,K0V,6.42,4.637,4.515,0.573,0.01,"Boyajian et al. 2013, ApJ, 771, 40",CLASSIC
+GJ 687,17 36 25.945, +68 20 22.01,M3.5Vvar,9.151,4.766,4.548,0.859,0.014,"Boyajian et al. 2012, ApJ, 757, 112",CLASSIC
+HD 161178,17 37 08.885, +72 27 20.92,G9III,5.869,3.766,3.657,0.944,0.043,"Ligi et al. 2016, A&A, 586, A94",VEGA
+HD 160762,17 39 27.889, +46 00 22.74,B3V,3.799,4.349,4.228,0.31,0.01,"Challouf et al. 2014, A&A, 570, A104",VEGA
+HD 162003,17 41 56.353, +72 08 56.13,F5IV-V,4.559,3.648,3.502,0.949,0.026,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+GJ 699,17 57 48.498, +04 41 36.21,M4V,9.511,4.83,4.524,0.952,0.005,"Boyajian et al. 2012, ApJ, 757, 112",CLASSIC
+HD 164259,18 00 28.995,-03 41 25.09,F3V,4.62,3.665,3.639,0.775,0.027,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+GJ 702A,18 05 27.355, +02 29 58.59,K0V,4.085,1.876,1.791,1.515,0.005,"Boyajian et al. 2012, ApJ, 757, 112",CLASSIC
+GJ 702B,18 05 27.421, +02 29 56.42,K5V,6.163,,,1.221,0.015,"Boyajian et al. 2012, ApJ, 757, 112",CLASSIC
+HD 167042,18 10 31.665, +54 17 11.45,K1III,5.965,3.557,3.55,1.056,0.014,"Ligi et al. 2016, A&A, 586, A94",VEGA
+HD 168151,18 13 53.827, +64 23 50.20,F5V,4.992,4.059,3.944,0.713,0.009,"Boyajian et al. 2013, ApJ, 771, 40",CLASSIC
+HD 168151,18 13 53.827, +64 23 50.20,F5V,4.992,4.059,3.944,0.664,0.015,"Ligi et al. 2016, A&A, 586, A94",VEGA
+HD 170693,18 25 59.160, +65 33 48.65,K2III,4.822,2.197,2.085,2.097,0.009,"Ligi et al. 2016, A&A, 586, A94",VEGA
+HD 173701,,,,,,,0.332,0.006,"Huber et al. 2012, ApJ, 760, 32",PAVO
+HD 175726,,,,,,,0.346,0.007,"Huber et al. 2012, ApJ, 760, 32",PAVO
+HD 177153,,,,,,,0.289,0.006,"Huber et al. 2012, ApJ, 760, 32",PAVO
+HD 181420,,,,,,,0.34,0.01,"Huber et al. 2012, ApJ, 760, 32",PAVO
+HD 182736,,,,,,,0.436,0.005,"Huber et al. 2012, ApJ, 760, 32",PAVO
+HD 187637,,,,,,,0.231,0.006,"Huber et al. 2012, ApJ, 760, 32",PAVO
+HD 175955,,,,,,,0.68,0.01,"Huber et al. 2012, ApJ, 760, 32",PAVO
+HD 177151,,,,,,,0.57,0.01,"Huber et al. 2012, ApJ, 760, 32",PAVO
+HD 181827,,,,,,,0.473,0.005,"Huber et al. 2012, ApJ, 760, 32",PAVO
+HD 189349,,,,,,,0.42,0.006,"Huber et al. 2012, ApJ, 760, 32",PAVO
+GJ 725A,18 42 46.663, +59 37 49.93,M3V,4.741,4.741,4.432,0.937,0.008,"Boyajian et al. 2012, ApJ, 757, 112",CLASSIC
+GJ 725B,18 42 46.885, +59 37 37.42,M3.5V,5.197,5.197,5,0.851,0.015,"Boyajian et al. 2012, ApJ, 757, 112",CLASSIC
+HD 173416,18 43 36.104, +36 33 23.78,K0,6.045,3.929,3.814,0.995,0.034,"Ligi et al. 2016, A&A, 586, A94",VEGA
+HD 173667,18 45 39.729, +20 32 46.64,F6V,4.202,3.286,3.19,1,0.006,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 176437,18 58 56.634, +32 41 22.24,B9III,3.243,3.227,3.122,0.753,0.009,"Maestro et al. 2013, MNRAS, 434, 1321",PAVO
+HD 176437,18 58 56.634, +32 41 22.24,B9III,3.243,3.227,3.122,0.766,0.01,"Challouf et al. 2014, A&A, 570, A104",VEGA
+HD 177724,19 05 24.619, +13 51 48.63,A0Vn,2.98,3.048,2.876,0.895,0.017,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 177756,19 06 14.940,-04 52 57.18,B9Vn,3.427,3.477,3.564,0.544,0.003,"Challouf et al. 2014, A&A, 570, A104",VEGA
+HD 182572,19 24 58.229, +11 56 40.15,G8IVvar,5.152,3.327,3.037,0.845,0.025,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 184171,19 31 46.313, +34 27 10.43,B3IV,4.735,5.093,5.114,0.234,0.011,"Challouf et al. 2014, A&A, 570, A104",VEGA
+HD 185144,19 32 21.537, +69 39 41.34,K0V,4.664,3.039,2.9,1.254,0.012,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 185395,19 36 26.543, +50 13 15.57,F4V,4.493,3.716,3.537,0.861,0.015,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 185395,19 36 26.543, +50 13 15.57,F4V,4.493,3.716,3.537,0.749,0.008,"Ligi et al. 2016, A&A, 586, A94",VEGA
+HD 185395,19 36 26.543, +50 13 15.57,F4V,4.493,3.716,3.537,0.753,0.009,White et al. 2013,"PAVO"
+HD 186408,19 41 48.965, +50 31 30.54,G2V,5.949,4.724,4.426,0.554,0.011,"Boyajian et al. 2013, ApJ, 771, 40",CLASSIC
+HD 186408,19 41 48.965, +50 31 30.54,G2V,5.949,4.724,4.426,0.539,0.007,White et al. 2013,"PAVO"
+HD 186427,19 41 51.984, +50 31 03.28,G5V,6.199,4.695,4.651,0.513,0.012,"Boyajian et al. 2013, ApJ, 771, 40",CLASSIC
+HD 186427,19 41 51.984, +50 31 03.28,G5V,6.199,4.695,4.651,0.49,0.006,White et al. 2013,"PAVO"
+HD 186882,19 44 58.451, +45 07 50.74,B9.5III,2.894,2.947,2.678,0.791,0.004,"Challouf et al. 2014, A&A, 570, A104",VEGA
+HD 190360,20 03 37.329, +29 53 49.32,G6IV,5.728,4.239,4.076,0.622,0.007,"Ligi et al. 2016, A&A, 586, A94",VEGA
+HD 195564,20 32 23.696,-09 51 12.10,G3V,5.657,3.908,3.999,0.712,0.031,"Boyajian et al. 2013, ApJ, 771, 40",CLASSIC
+GJ 809,20 53 19.772, +62 09 15.67,M2V,8.576,4.919,4.618,0.722,0.008,"Boyajian et al. 2012, ApJ, 757, 112",CLASSIC
+HD 202850,21 17 24.945, +39 23 40.27,B9Iab,4.244,3.864,3.683,0.527,0.016,"Maestro et al. 2013, MNRAS, 434, 1321",PAVO
+HD 206860,21 44 31.311, +14 46 19.06,G0V,5.953,4.598,4.559,0.53,0.015,"Boyajian et al. 2013, ApJ, 771, 40",CLASSIC
+HD 209369,21 59 14.951, +73 10 47.64,F5V,5.034,4.027,3.96,0.621,0.018,"Ligi et al. 2016, A&A, 586, A94",VEGA
+HD 210418,22 10 11.990, +06 11 52.28,A2V,3.52,3.39,3.377,0.862,0.018,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 213558,22 31 17.512, +50 16 57.15,A1V,3.77,3.867,3.851,0.634,0.022,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 214923,22 41 27.732, +10 49 52.64,B8.5V,3.408,3.527,3.566,0.555,0.009,"Challouf et al. 2014, A&A, 570, A104",VEGA
+HD 215648,22 46 41.568, +12 10 22.84,F7V,4.203,3.078,2.961,1.091,0.008,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+GJ 880,22 56 34.805, +16 33 12.36,M2,8.694,4.8,4.523,0.744,0.004,"Boyajian et al. 2012, ApJ, 757, 112",CLASSIC
+HD 217014,22 57 27.960, +20 46 07.74,G5V,5.447,4.234,3.911,0.685,0.011,"Boyajian et al. 2013, ApJ, 771, 40",CLASSIC
+HD 217014,22 57 27.960, +20 46 07.74,G5V,5.447,4.234,3.911,0.65,0.014,"Ligi et al. 2016, A&A, 586, A94",VEGA
+HD 217107,22 58 15.565,-02 23 43.27,G8IV,6.168,4.765,4.536,0.567,0.008,"Boyajian et al. 2013, ApJ, 771, 40",CLASSIC
+HD 217675,23 01 55.274, +42 19 33.42,B6IIIpe,3.631,3.841,3.886,0.508,0.015,"Maestro et al. 2013, MNRAS, 434, 1321",PAVO
+HD 218560,23 07 57.191, +64 13 21.29,K0,6.206,3.822,3.666,0.927,0.022,"Ligi et al. 2016, A&A, 586, A94",VEGA
+HD 219080,23 12 32.992, +49 24 22.27,F0V,4.53,3.76,3.791,0.648,0.008,"Maestro et al. 2013, MNRAS, 434, 1321",PAVO
+GJ 892,23 13 16.921, +57 10 05.99,K3Vvar,5.561,3.469,3.261,1.106,0.007,"Boyajian et al. 2012, ApJ, 757, 112",CLASSIC
+HD 219623,23 16 42.289, +53 12 48.92,F7V,5.577,4.599,4.306,0.542,0.016,"Boyajian et al. 2013, ApJ, 771, 40",CLASSIC
+HD 221345,23 31 17.426, +39 14 10.20,K0III,5.225,2.608,2.331,1.489,0.032,"Ligi et al. 2016, A&A, 586, A94",VEGA
+HD 222603,23 42 02.818, +01 46 48.12,A7V,4.491,4.204,4.064,0.581,0.012,"Boyajian et al. 2013, ApJ, 771, 40",CLASSIC
+HD 222368,23 39 57.066, +05 37 34.31,F7V,4.126,2.988,2.946,1.082,0.009,"Boyajian et al. 2012, ApJ, 746, 101",CLASSIC
+HD 45410,,,,,,,0.853,0.013,White et al. 2018,PAVO
+HD 90043,,,,,,,0.659,0.009,White et al. 2018,PAVO
+HD 142091,,,,,,,1.456,0.02,White et al. 2018,PAVO
+HD 167042,,,,,,,0.823,0.011,White et al. 2018,PAVO
+HD 210702,,,,,,,0.831,0.011,White et al. 2018,PAVO
+GJ 15A,,,,,,,0.988,0.016,Berger et al. 2006,CLASSIC
+GJ 514,,,,,,,0.753,0.052,Berger et al. 2006,CLASSIC
+GJ 526,,,,,,,0.845,0.057,Berger et al. 2006,CLASSIC
+GJ 687,,,,,,,1.009,0.077,Berger et al. 2006,CLASSIC
+GJ 752A,,,,,,,0.836,0.051,Berger et al. 2006,CLASSIC
+GJ 880,,,,,,,0.934,0.059,Berger et al. 2006,CLASSIC
+HD 125162,,,,,,,0.533,0.029,Ciardi et al. 2007,CLASSIC
+HD 189733,,,,,,,0.377,0.024,Baines et al. 2007,CLASSIC
+HD 10700,,,,,,,2.015,0.011,Di Folco et al. 2007,FLUOR
+HD 22049,,,,,,,2.126,0.014,Di Folco et al. 2007,FLUOR
+HD 16141,,,,,,,0.49,0.049,"Baines, et al., The Astrophysical Journal, 701, 154 (2009)",CLASSIC
+HD 17092,,,,,,,0.601,0.041,"Baines, et al., The Astrophysical Journal, 701, 154 (2009)",CLASSIC
+HD 45410,,,,,,,0.97,0.035,"Baines, et al., The Astrophysical Journal, 701, 154 (2009)",CLASSIC
+HD 154345,,,,,,,0.502,0.026,"Baines, et al., The Astrophysical Journal, 701, 154 (2009)",CLASSIC
+HD 185269,,,,,,,0.48,0.033,"Baines, et al., The Astrophysical Journal, 701, 154 (2009)",CLASSIC
+HD 188310,,,,,,,1.726,0.008,"Baines, et al., The Astrophysical Journal, 701, 154 (2009)",CLASSIC
+HD 199665,,,,,,,1.111,0.028,"Baines, et al., The Astrophysical Journal, 701, 154 (2009)",CLASSIC
+HD 210702,,,,,,,0.875,0.018,"Baines, et al., The Astrophysical Journal, 701, 154 (2009)",CLASSIC
+HD 217107,,,,,,,0.704,0.013,"Baines, et al., The Astrophysical Journal, 701, 154 (2009)",CLASSIC
+HD 221345,,,,,,,1.336,0.009,"Baines, et al., The Astrophysical Journal, 701, 154 (2009)",CLASSIC
+HD 222404,,,,,,,3.302,0.029,"Baines, et al., The Astrophysical Journal, 701, 154 (2009)",CLASSIC
+HD 3651,,,,,,,0.79,0.027,"Baines et al. 2008, ApJ, 680, 728",CLASSIC
+HD 9826,,,,,,,1.114,0.009,"Baines et al. 2008, ApJ, 680, 728",CLASSIC
+HD 10697,,,,,,,0.485,0.046,"Baines et al. 2008, ApJ, 680, 728",CLASSIC
+HD 11964,,,,,,,0.611,0.081,"Baines et al. 2008, ApJ, 680, 728",CLASSIC
+HD 13189,,,,,,,0.836,0.028,"Baines et al. 2008, ApJ, 680, 728",CLASSIC
+HD 19994,,,,,,,0.788,0.026,"Baines et al. 2008, ApJ, 680, 728",CLASSIC
+HD 20367,,,,,,,0.408,0.109,"Baines et al. 2008, ApJ, 680, 728",CLASSIC
+HD 23596,,,,,,,0.381,0.044,"Baines et al. 2008, ApJ, 680, 728",CLASSIC
+HD 38529,,,,,,,0.573,0.049,"Baines et al. 2008, ApJ, 680, 728",CLASSIC
+HD 50554,,,,,,,0.344,0.1,"Baines et al. 2008, ApJ, 680, 728",CLASSIC
+HD 59686,,,,,,,1.106,0.011,"Baines et al. 2008, ApJ, 680, 728",CLASSIC
+HD 75732,,,,,,,0.854,0.024,"Baines et al. 2008, ApJ, 680, 728",CLASSIC
+HD 104985,,,,,,,1.032,0.023,"Baines et al. 2008, ApJ, 680, 728",CLASSIC
+HD 117176,,,,,,,1.009,0.024,"Baines et al. 2008, ApJ, 680, 728",CLASSIC
+HD 120136,,,,,,,0.786,0.016,"Baines et al. 2008, ApJ, 680, 728",CLASSIC
+HD 143761,,,,,,,0.686,0.044,"Baines et al. 2008, ApJ, 680, 728",CLASSIC
+HD 145675,,,,,,,0.371,0.044,"Baines et al. 2008, ApJ, 680, 728",CLASSIC
+HD 177830,,,,,,,0.467,0.058,"Baines et al. 2008, ApJ, 680, 728",CLASSIC
+HD 186427,,,,,,,0.426,0.056,"Baines et al. 2008, ApJ, 680, 728",CLASSIC
+HD 189733,,,,,,,0.377,0.024,"Baines et al. 2008, ApJ, 680, 728",CLASSIC
+HD 190228,,,,,,,0.453,0.046,"Baines et al. 2008, ApJ, 680, 728",CLASSIC
+HD 190360,,,,,,,0.698,0.019,"Baines et al. 2008, ApJ, 680, 728",CLASSIC
+HD 196885,,,,,,,0.494,0.046,"Baines et al. 2008, ApJ, 680, 728",CLASSIC
+HD 217014,,,,,,,0.748,0.027,"Baines et al. 2008, ApJ, 680, 728",CLASSIC
+HD 6582,,,,,,,0.973,0.009,"Boyajian et al. 2008, ApJ, 683, 424",CLASSIC
+HD 185144,,,,,,,1.254,0.012,"Boyajian et al. 2008, ApJ, 683, 424",CLASSIC
+HD 10780,,,,,,,0.763,0.021,"Boyajian et al. 2008, ApJ, 683, 424",CLASSIC
+HD 201091,,,,,,,1.775,0.013,"Kervella et al. 2008, A&A, 488, 667",FLUOR
+HD 201092,,,,,,,1.581,0.022,"Kervella et al. 2008, A&A, 488, 667",FLUOR
+HD 27371,,,,,,,2.517,0.034,"Boyajian et al. 2009, ApJ, 691, 1243",CLASSIC
+HD 27697,,,,,,,2.408,0.038,"Boyajian et al. 2009, ApJ, 691, 1243",CLASSIC
+HD 28305,,,,,,,2.734,0.031,"Boyajian et al. 2009, ApJ, 691, 1243",CLASSIC
+HD 28307,,,,,,,2.305,0.043,"Boyajian et al. 2009, ApJ, 691, 1243",CLASSIC
+HD 102647,,,,,,,1.339,0.013,"Akeson et al. 2009, ApJ, 691, 1896",FLUOR
+HD 97603,,,,,,,1.165,0.022,"Akeson et al. 2009, ApJ, 691, 1896",FLUOR
+HD 38678,,,,,,,0.67,0.14,"Akeson et al. 2009, ApJ, 691, 1896",FLUOR
+HD 32518,,,,,,,0.851,0.022,"E.K. Baines, et al., The Astrophysical Journal, 710, 1365 (2010).",CLASSIC
+HD 60294,,,,,,,1.044,0.01,"E.K. Baines, et al., The Astrophysical Journal, 710, 1365 (2010).",CLASSIC
+HD 73108,,,,,,,2.225,0.02,"E.K. Baines, et al., The Astrophysical Journal, 710, 1365 (2010).",CLASSIC
+HD 102328,,,,,,,1.606,0.006,"E.K. Baines, et al., The Astrophysical Journal, 710, 1365 (2010).",CLASSIC
+HD 103605,,,,,,,1.098,0.01,"E.K. Baines, et al., The Astrophysical Journal, 710, 1365 (2010).",CLASSIC
+HD 106574,,,,,,,1.498,0.028,"E.K. Baines, et al., The Astrophysical Journal, 710, 1365 (2010).",CLASSIC
+HD 113049,,,,,,,0.971,0.022,"E.K. Baines, et al., The Astrophysical Journal, 710, 1365 (2010).",CLASSIC
+HD 136726,,,,,,,2.336,0.02,"E.K. Baines, et al., The Astrophysical Journal, 710, 1365 (2010).",CLASSIC
+HD 137443,,,,,,,1.69,0.031,"E.K. Baines, et al., The Astrophysical Journal, 710, 1365 (2010).",CLASSIC
+HD 138265,,,,,,,2.062,0.038,"E.K. Baines, et al., The Astrophysical Journal, 710, 1365 (2010).",CLASSIC
+HD 139357,,,,,,,1.073,0.013,"E.K. Baines, et al., The Astrophysical Journal, 710, 1365 (2010).",CLASSIC
+HD 150010,,,,,,,1.024,0.029,"E.K. Baines, et al., The Astrophysical Journal, 710, 1365 (2010).",CLASSIC
+HD 152812,,,,,,,1.44,0.004,"E.K. Baines, et al., The Astrophysical Journal, 710, 1365 (2010).",CLASSIC
+HD 160290,,,,,,,1.515,0.01,"E.K. Baines, et al., The Astrophysical Journal, 710, 1365 (2010).",CLASSIC
+HD 170693,,,,,,,2.041,0.043,"E.K. Baines, et al., The Astrophysical Journal, 710, 1365 (2010).",CLASSIC
+HD 175823,,,,,,,0.988,0.023,"E.K. Baines, et al., The Astrophysical Journal, 710, 1365 (2010).",CLASSIC
+HD 176408,,,,,,,1.125,0.023,"E.K. Baines, et al., The Astrophysical Journal, 710, 1365 (2010).",CLASSIC
+HD 186815,,,,,,,0.731,0.02,"E.K. Baines, et al., The Astrophysical Journal, 710, 1365 (2010).",CLASSIC
+HD 192781,,,,,,,1.859,0.003,"E.K. Baines, et al., The Astrophysical Journal, 710, 1365 (2010).",CLASSIC
+HD 200205,,,,,,,2.032,0.045,"E.K. Baines, et al., The Astrophysical Journal, 710, 1365 (2010).",CLASSIC
+HD 214868,,,,,,,2.731,0.024,"E.K. Baines, et al., The Astrophysical Journal, 710, 1365 (2010).",CLASSIC
+HD 168723,,,,,,,2.944,0.01,"A. Merand, et al., Astronomy and Astrophysics, 517, 64 (2010)",VEGA
+HD 146233,,,,,,,0.6759,0.0062,"M. Bazot, et al., Astronomy and Astrophysics, 526, L4 (2011)",PAVO
+HD 201601,,,,,,,0.564,0.017,"K. Perraut, et al., Astronomy and Astrophysics, 526, A89 (2011).",VEGA
+GJ 581,,,,,,,0.446,0.014,"K. von Braun, et al., The Astrophysical Journal, 729, L26 (2011).",CLASSIC
+HD 148293,,,,,,,1.48,0.06,"E.K. Baines, et al., The Astrophysical Journal, 731, 132 (2011).",CLASSIC
+HD 181068,,,,,,,0.461,0.011,"A. Derekas, et al., Science, 332, 316 (2011).",PAVO
+HD 75732,,,,,,,0.711,0.004,"K. von Braun, et al., The Astrophysical Journal, 740, 49 (2011).",CLASSIC
+HD 49933,,,,,,,0.445,0.012,"L. Bigot, et al., Astronomy and Astrophysics, 534, L3 (2011).",VEGA
+HD 137759,,,,,,,3.596,0.015,"E.K. Baines, et al., The Astrophysical Journal, 743, 130 (2011).",CLASSIC
+HD 203,,,,,,,0.492,0.032,"M. Simon and G.H. Schaefer, The Astrophysical Journal, 743, 158 (2011).",CLASSIC
+HD 29391,,,,,,,0.518,0.009,"M. Simon and G.H. Schaefer, The Astrophysical Journal, 743, 158 (2011).",CLASSIC
+GJ 436,,,,,,,0.417,0.013,"K. von Braun, et al., The Astrophysical Journal, 753, 171 (2012).",CLASSIC
+HD 221345,,,,,,,1.51,0.02,"R. Ligi, et al., Astronomy and Astrophysics, 545, 5 (2012).",VEGA
+HD 9826,,,,,,,1.18,0.01,"R. Ligi, et al., Astronomy and Astrophysics, 545, 5 (2012).",VEGA
+HD 170693,,,,,,,2.12,0.02,"R. Ligi, et al., Astronomy and Astrophysics, 545, 5 (2012).",VEGA
+HD 185395,,,,,,,0.76,0.003,"R. Ligi, et al., Astronomy and Astrophysics, 545, 5 (2012).",VEGA
+HD 122563,,,,,,,0.94,0.011,"O.L. Creevey, et al., Astronomy and Astrophysics, 545, 17 (2012).O.L. Creevey, et al., Astronomy and Astrophysics, 545, 17 (2012).",VEGA
+HD 103095,,,,,,,0.679,0.007,"O.L. Creevey, et al., Astronomy and Astrophysics, 545, 17 (2012).O.L. Creevey, et al., Astronomy and Astrophysics, 545, 17 (2012).",VEGA
+HD 218396,,,,,,,0.342,0.008,"E.K. Baines, et al., The Astrophysical Journal, 761, 57 (2012).",CLASSIC
+HD 50890,,,,,,,1.006,0.02,"E.K. Baines, et al., The Astrophysical Journal, 772, 16 (2013).",CLASSIC
+HD 176232,,,,,,,0.275,0.009,"K. Perraut, et al., Astronomy and Astrophysics, 559, 21 (2013).",VEGA
+HD 115617,,,,,,,1.073,0.005,"K. von Braun, et al., Monthly Notices of the Royal Astronomical Society, 438, 2413 (2014).",CLASSIC
+HD 143761,,,,,,,0.735,0.014,"K. von Braun, et al., Monthly Notices of the Royal Astronomical Society, 438, 2413 (2014).",CLASSIC
+GJ 176,,,,,,,0.448,0.021,"K. von Braun, et al., Monthly Notices of the Royal Astronomical Society, 438, 2413 (2014).",CLASSIC
+GJ 614,,,,,,,0.459,0.017,"K. von Braun, et al., Monthly Notices of the Royal Astronomical Society, 438, 2413 (2014).",CLASSIC
+GJ 649,,,,,,,0.484,0.012,"K. von Braun, et al., Monthly Notices of the Royal Astronomical Society, 438, 2413 (2014).",CLASSIC
+GJ 876,,,,,,,0.746,0.009,"K. von Braun, et al., Monthly Notices of the Royal Astronomical Society, 438, 2413 (2014).",CLASSIC
+HD 1461,,,,,,,0.498,0.011,"K. von Braun, et al., Monthly Notices of the Royal Astronomical Society, 438, 2413 (2014).",CLASSIC
+HD 7924,,,,,,,0.433,0.014,"K. von Braun, et al., Monthly Notices of the Royal Astronomical Society, 438, 2413 (2014).",CLASSIC
+HD 33564,,,,,,,0.64,0.01,"K. von Braun, et al., Monthly Notices of the Royal Astronomical Society, 438, 2413 (2014).",CLASSIC
+HD 107383,,,,,,,1.651,0.016,"K. von Braun, et al., Monthly Notices of the Royal Astronomical Society, 438, 2413 (2014).",CLASSIC
+HD 210702,,,,,,,0.886,0.006,"K. von Braun, et al., Monthly Notices of the Royal Astronomical Society, 438, 2413 (2014).",CLASSIC
+HD 185351,,,,,,,1.12,0.016,"J. Johnson, et al., The Astrophysical Journal, 794, 15 (2014).",CLASSIC
+HD 185351,,,,,,,1.133,0.009,"J. Johnson, et al., The Astrophysical Journal, 794, 15 (2014).",PAVO
+HD 1326,,,,,,,1.005,0.005,"A.W. Howard, et al., The Astrophysical Journal, 794, 51 (2014).",CLASSIC
+HD 189733,,,,,,,0.3848,0.0055,"T. Boyajian, et al., Monthly Notices of the Royal Astronomical Society, 447, 846 (2015).",PAVO
+HD 209458,,,,,,,0.2254,0.0072,"T. Boyajian, et al., Monthly Notices of the Royal Astronomical Society, 447, 846 (2015).",PAVO
+HD 69830,,,,,,,0.674,0.014,"A. Tanner, et al., The Astrophysical Journal, 800, 115 (2015).",CLASSIC
+HD 140283,,,,,,,0.353,0.013,"O. Creevey, et al., Astronomy and Astrophysics, 575, 26 (2015).",VEGA
+HD 117176,,,,,,,0.998,0.005,"S. R. Kane, et al., The Astrophysical Journal, 806, 60 (2015).",CLASSIC
+HD 118022,,,,,,,0.346,0.006,"K. Perraut, et al., Astronomy and Astrophysics, 579, 85 (2015).",VEGA
+HD 24712,,,,,,,0.335,0.009,"K. Perraut, et al., Astronomy & Astrophysics, 590, A117 (2016).",VEGA
+HD 2774,,,,,,,1.303,0.023,"E. Baines et al., Astronomical Journal, 152, 66 (2016).",CLASSIC
+HD 6497,,,,,,,0.731,0.044,"E. Baines et al., Astronomical Journal, 152, 66 (2016).",CLASSIC
+HD 13982,,,,,,,1.169,0.032,"E. Baines et al., Astronomical Journal, 152, 66 (2016).",CLASSIC
+HD 31579,,,,,,,1.593,0.008,"E. Baines et al., Astronomical Journal, 152, 66 (2016).",CLASSIC
+HD 153956,,,,,,,0.983,0.023,"E. Baines et al., Astronomical Journal, 152, 66 (2016).",CLASSIC
+HD 157681,,,,,,,1.908,0.013,"E. Baines et al., Astronomical Journal, 152, 66 (2016).",CLASSIC
+HD 184293,,,,,,,1.548,0.022,"E. Baines et al., Astronomical Journal, 152, 66 (2016).",CLASSIC
+HD 216174,,,,,,,1.598,0.012,"E. Baines et al., Astronomical Journal, 152, 66 (2016).",CLASSIC
+HD 218029,,,,,,,1.862,0.044,"E. Baines et al., Astronomical Journal, 152, 66 (2016).",CLASSIC
+HD 164922,,,,,,,0.999,0.017,"B. J. Fulton, et al., The Astrophysical Journal, 830, 46 (2016).",PAVO
+GJ 628,,,,,,,0.695,0.018,"S. R. Kane, et al., The Astrophysical Journal, 835, 200 (2017).",CLASSIC
+HD 140283,,,,,,,0.324,0.005,"I. Karovicova, et al., Monthly Notices of the Royal Astronomical Society, 475, 81 (2018).",PAVO
+HD 122563,,,,,,,0.926,0.011,"I. Karovicova, et al., Monthly Notices of the Royal Astronomical Society, 475, 81 (2018).",PAVO
+HD 103095,,,,,,,0.595,0.007,"I. Karovicova, et al., Monthly Notices of the Royal Astronomical Society, 475, 81 (2018).",PAVO
+GJ 159,,,,,,,0.582,0.016,"G. Schaefer, et al., Astrophysical Journal, 858, 71 (2018).",CLASSIC
+GJ 393,,,,,,,0.564,0.021,"G. Schaefer, et al., Astrophysical Journal, 858, 71 (2018).",CLASSIC
+HD 89744,,,,,,,0.556,0.032,"G. Schaefer, et al., Astrophysical Journal, 858, 71 (2018).",CLASSIC
+GJ 504,,,,,,,0.71,0.02,"M. Bonnefoy, et al., Astronomy and Astrophysics, 618, 63 (2018).",VEGA
+HD 4747,,,,,,,0.39,0.006,"C. Wood, et al., The Astrophysical Journal, 873, 83 (2019)\",PAVO
+HD 19467,,,,,,,0.376,0.014,"C. Wood, et al., The Astrophysical Journal, 873, 83 (2019)",PAVO
+HD 113337,,,,,,,0.386,0.009,"S. Borgniet, et al., accepted by Astronomy and Astrophysics (2019).",VEGA
